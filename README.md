@@ -1,6 +1,11 @@
 # Neovim-configuration
 do not even try man.
 
+# Setup
+- clone this repo
+- bash setup.sh
+- done
+
 # Leader -> space bar
 
 # NORMAL MODE
