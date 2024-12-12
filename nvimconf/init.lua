@@ -1,0 +1,2 @@
+require("ferzener")
+print("Hello!")
