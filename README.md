@@ -10,3 +10,6 @@ do not even try man.
 
 # NORMAL MODE
  - <leader>fs - see filesystem (:Ex)
+
+
+PS : Yeah it came from primeagen but have my touch.
