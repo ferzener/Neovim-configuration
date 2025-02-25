@@ -11,6 +11,12 @@ lspconfig_defaults.capabilities = vim.tbl_deep_extend(
   require('cmp_nvim_lsp').default_capabilities()
 )
 
+lspconfig_defaults.ensure_installed({
+    "tsserver",
+    "eslint",
+    "sumneko_lua",
+})
+
 -- This is where you enable features that only work
 -- if there is a language server active in the file
 vim.api.nvim_create_autocmd('LspAttach', {
